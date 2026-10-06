@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ej01_BienvenidaBilletera/Ej01_BienvenidaBilletera.csproj" />
+  <Project Path="Ej02_FichaDeCuenta/Ej02_FichaDeCuenta.csproj" />
+  <Project Path="Ej03_TiposDeDatosCuenta/Ej03_TiposDeDatosCuenta.csproj" />
+  <Project Path="M1_BilleteraVirtual/M1_BilleteraVirtual.csproj" />
+</Solution>
