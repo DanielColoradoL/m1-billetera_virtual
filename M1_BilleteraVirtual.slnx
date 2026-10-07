@@ -7,5 +7,6 @@
   <Project Path="Ej02_FichaDeCuenta/Ej02_FichaDeCuenta.csproj" />
   <Project Path="Ej03_TiposDeDatosCuenta/Ej03_TiposDeDatosCuenta.csproj" />
   <Project Path="Ej04_CalculoTransferencia/Ej04_CalculoTransferencia.csproj" Id="d4e8bf1a-c206-40d6-942a-e27248077eb7" />
+  <Project Path="Ej05_ValidacionTransferencia/Ej05_ValidacionTransferencia.csproj" Id="e77c2309-12ab-4ea1-ac13-6418f516451b" />
   <Project Path="M1_BilleteraVirtual/M1_BilleteraVirtual.csproj" />
 </Solution>
